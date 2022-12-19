@@ -1,0 +1,45 @@
+
+.card{
+    border-color: green;
+    background-color: transparent;
+
+}
+
+.navbar.navbar-expand-lg.bg-dark{
+    background-color:rgb(87, 87, 87);
+
+}
+
+i.fa-brands.fa-instagram.fa-2xl:hover{
+    color: orange;
+
+}
+i.fa-brands.fa-square-github.fa-2xl:hover{
+    color: purple;
+}
+i.fa-brands.fa-linkedin.fa-2xl:hover{
+    color:blue;
+}
+
+i.fa-solid.fa-user.fa-2x:hover{
+    color:green;
+}
+
+.list-group{
+    --bs-list-group-bg: transparent;
+    --bs-list-group-border-color: transparent;
+    --bs-list-group-color: white;
+
+}
+.btn.btn-secondary{
+    background-color: green;
+}
+
+.card-img, .card-img-top{
+    border-bottom-left-radius: 1%;
+    border-bottom-right-radius: 1%;
+}
+
+section.about{
+    margin-top: -10%;
+}
